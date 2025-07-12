@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Computer science student @ Cornell University<br>💬 Email: jk2756@cornell.edu<br>🌱 Linkedin: www.linkedin.com/in/jiminkim214<br>
+🔭 Computer science @ Cornell University<br>💬 Email: jk2756@cornell.edu<br>🌱 Linkedin: www.linkedin.com/in/jiminkim214<br>
 
 
 ## 🌐 Socials:

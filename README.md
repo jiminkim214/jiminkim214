@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 Computer science @ Cornell University<br>💬 Email: jk2756@cornell.edu<br>🌱 Linkedin: www.linkedin.com/in/jiminkim214<br>
+🔭 computer science @ cornell university<br>💬 email: jk2756@cornell.edu<br>🌱 linkedin: www.linkedin.com/in/jiminkim214<br>
+🎵 Hobbys: playing cello, enjoy listening to music, cooking for friends
 
 
 ## 🌐 Socials:
